@@ -1,0 +1,28 @@
+{
+  "name": "toast",
+  "version": "1.0.0",
+  "description": "Grids for css",
+  "main": "grid.css",
+  "scripts": {
+    "compile": "sass ./scss/_grid.scss ./css/grid.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bevilaquaBruno/toast.git"
+  },
+  "keywords": [
+    "grid",
+    "css",
+    "sass",
+    "scss"
+  ],
+  "author": "daneden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bevilaquaBruno/toast/issues"
+  },
+  "homepage": "https://github.com/bevilaquaBruno/toast#readme",
+  "dependencies": {
+    "sass": "^1.22.10"
+  }
+}
